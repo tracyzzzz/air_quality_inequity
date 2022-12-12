@@ -11,5 +11,5 @@ Thus, we look at <b>a combination of both the air pollution index and the SES in
 
 ## About the data
 The data was pulled from <b>OEHHA: CalEnviroScreen4.0</b>.
-- Air quality and Demographic data: [CalEnviroScreen 4.0 Excel and Data Dictionary PDF](https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40resultsdatadictionaryf2021.zip)
+- Air quality(airq.csv) and Demographic data(demographic.csv): [CalEnviroScreen 4.0 Excel and Data Dictionary PDF](https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40resultsdatadictionaryf2021.zip)
 - Bay Area map to upload to flourish: [CalEnviroScreen 4.0 SHP file](https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40shpf2021shp.zip) 
